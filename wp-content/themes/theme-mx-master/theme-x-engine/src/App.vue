@@ -4,7 +4,7 @@
     class="mx-app-wrapper"
     v-if="mx_data.rest_url"
   >
-  bonjou bonjour
+
   <!-- ******
             *
             * Header
